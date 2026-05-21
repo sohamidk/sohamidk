@@ -9,7 +9,7 @@
 
 ### 💻 I Code With:
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,vscode,Linux" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,git,github,vscode,linux" />
 </p>
 
 ---
