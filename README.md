@@ -1,5 +1,5 @@
 ## Hi👋, I'm Soham..✨
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=white&lines=Full+Stack+Developer;Java+%7C+DSA+Learner;Open+Source+Enthusiast)
+
 ## 🚀 About Me
 - 🌱 I’m currently learning Java, DSA
 - 💻 Building projects
